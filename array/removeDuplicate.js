@@ -1,5 +1,6 @@
 // Problem: Remove Duplicate form an array
 
+
 //With out using array methods
 
 const testArray = [2,3,4,5,6,3,3,4,5,6,7]
